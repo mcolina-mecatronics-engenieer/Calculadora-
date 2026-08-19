@@ -1,0 +1,12 @@
+[project]
+name = "calculadora version 1"
+version = "1.0.0"
+dependencies = [
+    "flet>=0.25.0"
+]
+
+[tool.flet]
+platforms = ["android", "ios"]
+
+
+#C:/Users/colin/AppData/Local/Programs/Python/Python312/python.exe c:/Users/colin/Desktop/calculadora/main.py
